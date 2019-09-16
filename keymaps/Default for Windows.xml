@@ -1,0 +1,6 @@
+<keymap version="1" name="Default for Windows 复制" parent="$default">
+  <action id="QuickChangeScheme" />
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+</keymap>

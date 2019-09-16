@@ -1,0 +1,9 @@
+<application>
+  <component name="UISettings">
+    <option name="ALLOW_MERGE_BUTTONS" value="false" />
+    <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="false" />
+    <option name="smoothScrolling" value="true" />
+  </component>
+</application>
