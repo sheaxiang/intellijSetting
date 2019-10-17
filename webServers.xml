@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cd3f5010-fc25-4b5d-97ac-1fb834742e0c" name="shea" url="http://localhost">
+        <fileTransfer host="47.110.37.13" port="22" rootFolder="/www/wwwroot/tbk.webooc.com" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
